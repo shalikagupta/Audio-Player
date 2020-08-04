@@ -55,6 +55,7 @@ function nextSong() {
   //   } else {
   //     pauseSong();
   //   }
+  //hi
 }
 
 function prevSong() {
